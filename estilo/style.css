@@ -140,9 +140,10 @@ main a:hover{
 }
 
 main >img{
+    margin: auto;
     display: block;
     max-width: 800px;
-    min-width: 664px;
+    min-width: 667px;
 }
 
 main img.pequena{
