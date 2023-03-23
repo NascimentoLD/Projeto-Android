@@ -140,6 +140,7 @@ main a:hover{
 }
 
 main >img{
+    display: block;
     max-width: 800px;
     min-width: 664px;
 }
