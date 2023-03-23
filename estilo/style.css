@@ -141,6 +141,8 @@ main a:hover{
 
 main >img{
     width: 100%;
+    min-width: 670px;
+    max-height: 800px;
 }
 
 main img.pequena{
